@@ -44,7 +44,7 @@ window.addEventListener('load', (event) => {
       });
     });
   //Just update//
-    //nav links
+    //nav links//
     const navLink = document.querySelectorAll('.nav-link');
       console.log(navLink);
     navLink.forEach((link) => {
